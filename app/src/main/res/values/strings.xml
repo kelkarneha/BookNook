@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Book Nook</string>
+    <string name="action_settings">Settings</string>
+    <string name="myReadingList">My List</string>
+    <string name="NYTBestsellers">Fiction</string>
+    <string name="NYTFictionBestsellers">Fiction</string>
+    <string name="NYTNonFictionBestsellers">Non Fiction</string>
+    <string name="title_activity_book_details">BookDetails</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="widget_title">BookNook My List</string>
+    <string name="app_logo">BookNook logo</string>
+    <string name="asyncDemoURL"><![CDATA[\"https://api.nytimes.com/svc/books/v3/lists.json?api-key=48471282c8b74bab8630df227a6013cc&list=e-book-fiction\"]]></string>
+    <string name="isTwoPane">isTwoPane</string>
+    <string name="FreeAds">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="TestDeviceID">SomeString</string>
+    <string name="settingScreenName">Setting screen name:</string>
+    <string name="Image">Image~</string>
+    <string name="baseURL">https://api.nytimes.com/svc/books/v3/lists/</string>
+    <string name="APIKey">mykey</string>
+    <string name="bookAdded">added to reading list</string>
+    <string name="bookRemoved">removed from reading list</string>
+</resources>

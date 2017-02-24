@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "382370097254",
+    "project_id": "book-nook-150608"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382370097254:android:9c2cdacf515dfcc0",
+        "android_client_info": {
+          "package_name": "com.example.android.booknook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QCtMSSrsFY7VKjeHTNq5aP1M76S6TKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-91876753-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

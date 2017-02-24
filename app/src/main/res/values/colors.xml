@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="photo_placeholder">@color/md_blue_50</color>
+        <!--color name="colorPrimary">#04561A</color>
+        <color name="colorPrimaryDark">#04561A</color>
+        <color name="colorAccent">#04561A</color>
+        <color name="ltgray">#ffe0e0e0</color-->
+
+        <color name="primaryBackgroundColor">@color/md_orange_500</color>
+        <color name="secondaryBackgroundColor">@color/md_orange_700</color>
+        <color name="cardBackgroundColor">@color/md_blue_100</color>
+        <color name="cardPrimaryTextColor">@color/md_grey_900</color>color>
+        <color name="cardSecondaryTextColor">@color/md_grey_800</color>color>
+        <color name="backgroundAccentColor">@color/md_pink_600</color>
+        <color name="backgroundColor">@color/md_grey_700</color>
+        <color name="primaryTextColor">@color/md_white_1000</color>
+        <color name="secondaryTextColor">@color/md_yellow_500</color>
+
+</resources>
