@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity implements BookDetailsFragme
         viewPager = (ViewPager) findViewById(R.id.view_pager);
         pageAdapter = new PagerTabAdapter
                 (getSupportFragmentManager(), tabLayout.getTabCount(), args);
-        viewPager.setAdapter(pageAdapter);
+        
         viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
 
         viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
